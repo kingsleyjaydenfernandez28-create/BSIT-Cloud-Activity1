@@ -15,7 +15,7 @@ lscpu                 # Shows CPU information
 free -h               # Shows Memory / RAM
 df -h                 # Shows Disk Space
 
-### Cloud Services That Could Host This Server
+Cloud Services That Could Host This Server
 This Linux server could be hosted on any of the three cloud platforms:
 
 - AWS → Amazon EC2 — Create a Linux virtual machine
